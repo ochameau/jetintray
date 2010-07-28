@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<window id="default" hidechrome="true"
+  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <popup id="tray-menu">
+    
+  </popup>
+</window>
