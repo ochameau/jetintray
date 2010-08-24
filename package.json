@@ -2,7 +2,7 @@
     "name": "trayicon",
     "description": "Jetpack library for TrayIcon support.",
     "author": "Alexandre Poirot",
-    "version": "0.1",
+    "version": "0.2",
     "license": "GPL 2.0",
     "dependencies": ["jetpack-core"],
     "xpcom": {
