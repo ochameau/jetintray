@@ -16,6 +16,9 @@ Futhermore it contains a good usage example of jsctypes with complex struct,
 calls to win32api and use of FunctionType (C function pointer for callbacks).
 Interresting parts are files in the `lib` directory.
 
+More info about jsctypes:
+http://blog.techno-barje.fr/post/2010/08/27/jsctypes-win32api-jetpack-jetintray
+
 
 ## LICENCE ##
 Part of this library, the XPCOM component comes from MinimizeToTrayPlus
