@@ -17,7 +17,9 @@ calls to win32api and use of FunctionType (C function pointer for callbacks).
 Interresting parts are files in the `lib` directory.
 
 More info about jsctypes:
+<a href="http://blog.techno-barje.fr/post/2010/08/27/jsctypes-win32api-jetpack-jetintray">
 http://blog.techno-barje.fr/post/2010/08/27/jsctypes-win32api-jetpack-jetintray
+</a>
 
 
 ## LICENCE ##
